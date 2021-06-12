@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Codigo modificado en la carpeta de prueba2</h1>
+    <h1>Creado desde la carpeta de prueba1</h1>
 </body>
 </html>
