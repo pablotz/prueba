@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Creado desde la carpeta de prueba</h1>
+    <h1>Creado desde la carpeta de prueba1</h1>
 </body>
 </html>
